@@ -12,6 +12,4 @@ metrics department.
 
 ## Insights and Results
 
-From this project, I got an idea about how as a business or data analyst we work on real-time data to take any data-driven decision.
-One thing I infer about this project is the dataset provided was very limited and small in respect of Rows and columns, But still, it was a very good experience
-working on such kind of project.
+From this project, I got an idea about how as a business or data analyst work on real-time data to take any data-driven decision. One thing I infer about this project is the dataset provided was very limited and small in respect of Rows and columns, but it increases my analytical ability, predictive analysis and also decision-making capability. I have learned advance concepts of SQL while doing this project. It was a very good experience working on such kind of project.
